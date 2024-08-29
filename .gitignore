@@ -1,3 +1,8 @@
+# Custom ignore
+seg_test/
+seg_train/
+seg_pred/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
